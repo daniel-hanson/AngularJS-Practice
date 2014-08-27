@@ -1,0 +1,57 @@
+.list-group-item {
+	text-align: center;
+}
+
+.list-group h3 {
+	font-size: 35px;
+	background-color: #00cc33;
+	width: 100%;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.list-group h5 {
+	color: #666666;
+	font-style: italic;
+	font-size: 30px;
+}
+
+blockquote {
+	border: none;
+}
+
+blockquote p, cite {
+	font-size: 14px;
+}
+
+.well h4 {
+	background-color: #ffffff;
+	padding: 10px;
+	border: 1px solid #00cc33;
+}
+
+select {
+	border: none;
+	padding: 5px;
+	color: #000000;
+}
+
+.spacer {
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+
+.nav {
+	margin: 10px 0 20px 0;
+}
+
+.nav.nav-pills li {
+	width: 33%;
+	margin: 0;
+	padding: 0;
+	background-color: #e5e2df;
+}
+
+.nav-pills>li>a {
+	border-radius: 0;
+}
