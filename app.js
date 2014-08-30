@@ -23,7 +23,7 @@
 	  price: 50.25,
 	  description: "Pink to blood-red colored gemstone, a variety of the mineral corundum (aluminium oxide)",
 	  specification: "The red color is caused mainly by the presence of the element chromium. Its name comes from ruber, Latin for red.",
-      review: "Phasellizzle fo shizzle my nizzle crunk. Curabitur non velizzle the bizzle pede cr",
+      review: "Review",
 	  canPurchase: true,
 	  soldOut: false,
 	  images: [
@@ -50,7 +50,7 @@
 	  price: 130.75,
 	  description: "In mineralogy, a diamond is a metastable allotrope of carbon, where the carbon atoms are arranged in a variation of the face-centered cubic crystal structure called a diamond lattice.",
 	  specification: "Diamonds are clear and very tough",
-	  review: "Maecenas quis metus izzle fo shizzle my nizzle yo gangsta. Break yo neck, yall dope",
+	  review: "Review",
 	  canPurchase: true,
 	  soldOut: false,
 	  images: [
